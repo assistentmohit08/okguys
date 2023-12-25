@@ -1,0 +1,28 @@
+*{
+    background: darkseagreen;
+}
+#head1{
+    text-align: center;
+    margin: 50px;
+}
+.head2{
+    font-size: 20px;
+    padding: 5px 10px;
+    border: 2px inset cadetblue;
+    background: white;
+}
+#head3{
+    display: flex;
+    gap: 40px;
+}
+.head4{
+    display: flex;
+    justify-content: space-between;
+}
+.head5{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.head6{
+    display: flex;
+}
